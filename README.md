@@ -3,19 +3,11 @@
 
 I love development and I like to constantly learn, keep up-to-date with evolving development technologies..
 - 📫 How to reach me: javierluciano12345@gmail.com 
-
+- 🌐 Portfolio: https://javierluciano.com  
 <br></br>
 
 
 [![linkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-javier-garcia-luciano-252a76173/)
-
-
-
-
-
-<!--[![youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeQDXaNSOVaeAQEPNuUNbFQ)-->
-
-## Knowledges
 
 ### Languages, Frameworks and Libraries 
 
@@ -30,6 +22,6 @@ I love development and I like to constantly learn, keep up-to-date with evolving
 
 ## Github's Stats
 
-[![emiliorosat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javier1292&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![emiliorosat's github stats](https://github-readme-stats.vercel.app/api?username=javier1292&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![emiliorosat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javier1292&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![emiliorosat's github stats](https://github-readme-stats.vercel.app/api?username=javier1292&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
