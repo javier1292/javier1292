@@ -24,8 +24,8 @@ I love development and I like to constantly learn, keep up-to-date with evolving
 
 
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-<img alt="Angular" src="https://img.shields.io/badge/Angular-%2320232a.svg?&style=for-the-badge&logo=Angular&logoColor=%2361DAFB"/>
-<img alt="Laravel" src="[https://img.shields.io/badge/Angular-%2320232a.svg?&style=for-the-badge&logo=Angular&logoColor=%2361DAFB](https://img.shields.io/badge/laravel-%23323330.svg?&style=for-the-badge&logo=laravel&logoColor=%ff0000)"/>
+<img alt="Angular" src="https://img.shields.io/badge/Angular-%2320232a.svg?&style=for-the-badge&logo=Angular&logoColor=%ff0000"/>
+<img alt="Laravel" src="https://img.shields.io/badge/laravel-%23323330.svg?&style=for-the-badge&logo=laravel&logoColor=%ff0000"/>
 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-%230769AD.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
 
